@@ -1,8 +1,6 @@
 javabot
 =======
 
-dependancies: 
-
 ### dependancies
 You have to include jsoup-1.7.1.jar into your project
 
